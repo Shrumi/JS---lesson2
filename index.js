@@ -29,7 +29,9 @@ const mySelf = {
     pet: true 
 };
 console.log ('Имя: ',mySelf.name);
+console.log ('Фамилия: ',mySelf.surname);
 console.log ('Возраст: ', mySelf.age);
+console.log ('Есть ли домашние животные: ',mySelf.pet);
 /* 
     Задание 3:
 
