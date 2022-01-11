@@ -78,7 +78,7 @@ const array = [
     'пробыть сутки',
     'Савельич'
 ]
-let result = `${array[3]} ${array[7]} ${array[0]} ${array[8]} ${array[11]} ${array[5]} ${array[9]} ${array[6]} ${array[4]} ${array[1]} ${array[12]} ${array[2]} ${array[10]}.`;
+let result = `${array[3]} ${array[7]} ${array[0]} ${array[8]} ${array[11]} ${array[5]} ${array[9]} ${array[6]} ${array[4]} ${array[1]} ${array[12]} ${array[2]} ${array[10]}`;
 console.log (result);
 //const amount = array.length;
 //console.log(amount);
